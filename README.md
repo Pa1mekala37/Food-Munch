@@ -6,4 +6,7 @@ Developed a responsive website for Food Store where users can see a list of food
 
 ●	Implemented product youtube videos by using bootstrap embed and model components
 
-●   Technologies used: HTML, CSS, Bootstrap                                                             
+●   Technologies used: HTML, CSS, Bootstrap             
+
+![screenshot](https://user-images.githubusercontent.com/104497104/195394287-3e161aa9-ef5c-4ef1-983f-28d008a7f601.jpeg)
+
